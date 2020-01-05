@@ -12,3 +12,7 @@ Welcome to my clicky game app. Simply click an image and increase your score, wh
 # NPM Packages
 
 This game was built using the React NPM package. https://www.npmjs.com/package/react
+
+# Live Page
+
+Here is a link a to the deployed site https://davidmstanleyjr.github.io/clicky-game/
