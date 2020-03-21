@@ -16,3 +16,7 @@ This game was built using the React NPM package. https://www.npmjs.com/package/r
 # Live Page
 
 Here is a link a to the deployed site https://davidmstanleyjr.github.io/clicky-game/
+
+![Screenshot 1](public/img/snip1.PNG)
+![Screenshot 2](public/img/snip2.PNG)
+
